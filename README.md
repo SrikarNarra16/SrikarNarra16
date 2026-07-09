@@ -88,12 +88,12 @@ const srikar = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrikarNarra16&theme=2077" alt="Profile summary"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrikarNarra16&theme=radical" alt="Profile summary"/>
 
 <br/>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrikarNarra16&theme=2077" alt="Top languages by repo"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrikarNarra16&theme=2077" alt="Most-committed languages"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrikarNarra16&theme=radical" alt="Most-committed languages"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrikarNarra16&theme=radical&utcOffset=5.5" alt="Productive time"/>
 
 <br/>
 <br/>
