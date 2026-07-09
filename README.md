@@ -103,11 +103,11 @@ const srikar = {
 <!--                              TROPHIES                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `//` &nbsp;achievements
+## `//` &nbsp;contribution graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SrikarNarra16&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SrikarNarra16&bg_color=0b0418&color=22d3ee&line=f472b6&point=22d3ee&area=true&area_color=6d28d9&title_color=22d3ee&hide_border=true&custom_title=Commit%20Activity" alt="Contribution graph"/>
 
 </div>
 
