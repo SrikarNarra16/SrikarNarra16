@@ -1,125 +1,109 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--            ▓▓▓  N E X U S · 2 0 4 4   —   S R I K A R  ▓▓▓        -->
+<!--                        SRIKAR NARRA · README                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/SrikarNarra16">
-  <img width="100%" src="https://raw.githubusercontent.com/SrikarNarra16/SrikarNarra16/main/assets/header.svg" alt="Srikar Narra // neon terminal"/>
+  <img width="100%" src="https://raw.githubusercontent.com/SrikarNarra16/SrikarNarra16/main/assets/header.svg" alt="Srikar Narra"/>
 </a>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-9147f9ff-6a71-45cc-a8f8-e05b9c2c4cd3.gif" width="440" alt="cyberpunk city"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=22D3EE&background=0B0418&center=true&vCenter=true&width=680&height=52&lines=Student+%C2%B7+software+%26+machine+learning;I+build+with+Python%2C+ML+and+the+web;Currently+exploring+ML+%26+systems+design;Always+shipping.)](https://git.io/typing-svg)
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          BOOT SEQUENCE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=24&pause=900&color=00E5FF&background=0D0221&center=true&vCenter=true&width=720&height=60&lines=%3E+booting+consciousness...+%5BOK%5D;%3E+wake+up_+samurai.+we+have+code+to+write.;%3E+student+//+builder+//+replicant+of+bugs;%3E+Python+%C2%B7+Machine+Learning+%C2%B7+the+Web;%3E+all+those+commits+will+be+lost...+like+tears+in+rain.)](https://git.io/typing-svg)
-
-<a href="https://www.linkedin.com/in/srikar-narra"><img src="https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d0221"/></a>
-<a href="mailto:srikarnarra16@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-0d0221?style=for-the-badge&logo=maildotru&logoColor=FF2E97&labelColor=0d0221"/></a>
-<img src="https://komarev.com/ghpvc/?username=SrikarNarra16&label=RETINAL+SCANS&color=ff2e97&style=for-the-badge"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="neon divider"/>
+<a href="https://www.linkedin.com/in/srikar-narra"><img src="https://img.shields.io/badge/LinkedIn-0b0418?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0b0418"/></a>
+<a href="mailto:srikarnarra16@gmail.com"><img src="https://img.shields.io/badge/Email-0b0418?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=0b0418"/></a>
+<img src="https://komarev.com/ghpvc/?username=SrikarNarra16&label=Visitors&color=818cf8&style=for-the-badge&labelColor=0b0418"/>
 
 </div>
 
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          UNIT PROFILE                           -->
+<!--                             PROFILE                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ◤ &nbsp;U N I T &nbsp; P R O F I L E &nbsp;◥
+## `//` &nbsp;profile
 
-```powershell
-> query --unit "SrikarNarra16"
-
-  ┌─[ NEXUS DEVELOPMENT SERIES · MODEL S-16 ]───────────────────┐
-  │  designation ...... Srikar Narra                            │
-  │  class ............ Student / Aspiring SWE + ML Engineer     │
-  │  jurisdiction ..... the sprawl, 3 A.M., screen-glow only     │
-  │  loadout .......... Python · Machine Learning · Web · Cloud  │
-  │  directive ........ build systems that outlive their maker   │
-  │  status ........... ONLINE · compiling the future            │
-  └──────────────────────────────────────────────────────────────┘
-```
-
-```diff
-+ 🌐 currently jacked into ....... ML + full-stack builds
-+ 🧬 upgrading firmware in ....... Machine Learning · System Design · Cloud
-+ 📡 open channels for .......... collabs · internships · signal
-! 🔩 interrogate me about ....... Python · JS/TS · Databases
-- 💊 malfunction (fun fact) ..... best ideas boot up after midnight
+```ts
+const srikar = {
+  role:      "Student · aspiring Software & ML Engineer",
+  focus:     ["Machine Learning", "Full-Stack Web", "Cloud"],
+  building:  "projects that solve real problems",
+  learning:  ["ML", "System Design", "Cloud"],
+  ask_me:    ["Python", "JavaScript / TypeScript", "Databases"],
+  open_to:   ["internships", "collaborations"],
+};
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          CYBERDECK                              -->
+<!--                              STACK                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ◤ &nbsp;C Y B E R D E C K &nbsp; //  installed_ware &nbsp;◥
+## `//` &nbsp;stack
 
 <div align="center">
 
-**` LANGUAGES `**
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00E5FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=00E5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=00E5FF)
-![SQL](https://img.shields.io/badge/SQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![Python](https://img.shields.io/badge/Python-0b0418?style=for-the-badge&logo=python&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0418?style=for-the-badge&logo=typescript&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0418?style=for-the-badge&logo=javascript&logoColor=22D3EE)
+![SQL](https://img.shields.io/badge/SQL-0b0418?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
 
-**` NEURAL NETS / DATA `**
+**Machine Learning &amp; Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0221?style=for-the-badge&logo=pytorch&logoColor=FF2E97)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0221?style=for-the-badge&logo=tensorflow&logoColor=FF2E97)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0221?style=for-the-badge&logo=scikitlearn&logoColor=FF2E97)
-![Pandas](https://img.shields.io/badge/Pandas-0d0221?style=for-the-badge&logo=pandas&logoColor=FF2E97)
-![NumPy](https://img.shields.io/badge/NumPy-0d0221?style=for-the-badge&logo=numpy&logoColor=FF2E97)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b0418?style=for-the-badge&logo=pytorch&logoColor=F472B6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0418?style=for-the-badge&logo=tensorflow&logoColor=F472B6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b0418?style=for-the-badge&logo=scikitlearn&logoColor=F472B6)
+![Pandas](https://img.shields.io/badge/Pandas-0b0418?style=for-the-badge&logo=pandas&logoColor=F472B6)
+![NumPy](https://img.shields.io/badge/NumPy-0b0418?style=for-the-badge&logo=numpy&logoColor=F472B6)
 
-**` GRID / FRAMEWORKS `**
+**Web &amp; Frameworks**
 
-![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=00E5FF)
-![Next.js](https://img.shields.io/badge/Next.js-0d0221?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0221?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF)
+![React](https://img.shields.io/badge/React-0b0418?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Next.js](https://img.shields.io/badge/Next.js-0b0418?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0b0418?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE)
+![Tailwind](https://img.shields.io/badge/Tailwind-0b0418?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
 
-**` INFRASTRUCTURE `**
+**Cloud, Databases &amp; Tools**
 
-![AWS](https://img.shields.io/badge/AWS-0d0221?style=for-the-badge&logo=amazonwebservices&logoColor=FF6B1A)
-![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=00E5FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0221?style=for-the-badge&logo=mongodb&logoColor=00E5FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
-![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=FF6B1A)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF)
+![AWS](https://img.shields.io/badge/AWS-0b0418?style=for-the-badge&logo=amazonwebservices&logoColor=818cf8)
+![Docker](https://img.shields.io/badge/Docker-0b0418?style=for-the-badge&logo=docker&logoColor=22D3EE)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0418?style=for-the-badge&logo=mongodb&logoColor=22D3EE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0418?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+![Git](https://img.shields.io/badge/Git-0b0418?style=for-the-badge&logo=git&logoColor=818cf8)
+![VS Code](https://img.shields.io/badge/VS%20Code-0b0418?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          TELEMETRY                              -->
+<!--                              STATS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ◤ &nbsp;S Y S T E M &nbsp; T E L E M E T R Y &nbsp;◥
+## `//` &nbsp;stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrikarNarra16&show_icons=true&hide_border=true&theme=synthwave&bg_color=0d0221&title_color=00E5FF&icon_color=FF2E97&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikarNarra16&layout=compact&hide_border=true&theme=synthwave&bg_color=0d0221&title_color=00E5FF&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrikarNarra16&show_icons=true&hide_border=true&theme=synthwave&bg_color=0b0418&title_color=22D3EE&icon_color=F472B6&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikarNarra16&layout=compact&hide_border=true&theme=synthwave&bg_color=0b0418&title_color=22D3EE&text_color=ffffff&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SrikarNarra16&hide_border=true&background=0d0221&stroke=FF2E97&ring=00E5FF&fire=FF2E97&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=SrikarNarra16&hide_border=true&background=0b0418&stroke=F472B6&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          COMMENDATIONS                          -->
+<!--                              TROPHIES                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ◤ &nbsp;C O M M E N D A T I O N S &nbsp;◥
+## `//` &nbsp;achievements
 
 <div align="center">
 
@@ -130,10 +114,10 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          DATA-STREAM                            -->
+<!--                             ACTIVITY                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## ◤ &nbsp;D A T A - S T R E A M &nbsp; //  contribution_grid &nbsp;◥
+## `//` &nbsp;activity
 
 <div align="center">
 
@@ -143,16 +127,8 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          SHUTDOWN                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="neon divider"/>
-
-### ` > it's too bad she won't live... but then again, who does? `
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:41045c,100:00e5ff&height=130&section=footer&text=end%20of%20line_&fontSize=24&fontColor=ffffff&fontAlignY=78&reversal=true" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0418,50:6d28d9,100:22d3ee&height=120&section=footer&reversal=true" alt="footer"/>
 
 </div>
