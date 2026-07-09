@@ -88,12 +88,17 @@ const srikar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrikarNarra16&show_icons=true&hide_border=true&theme=synthwave&bg_color=0b0418&title_color=22D3EE&icon_color=F472B6&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrikarNarra16&layout=compact&hide_border=true&theme=synthwave&bg_color=0b0418&title_color=22D3EE&text_color=ffffff&langs_count=8"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrikarNarra16&theme=2077" alt="Profile summary"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SrikarNarra16&hide_border=true&background=0b0418&stroke=F472B6&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrikarNarra16&theme=2077" alt="Top languages by repo"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrikarNarra16&theme=2077" alt="Most-committed languages"/>
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SrikarNarra16&hide_border=true&background=0b0418&stroke=F472B6&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak"/>
 
 </div>
 
