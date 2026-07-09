@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/SrikarNarra16">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:41045c,70:00e5ff,100:ff2e97&height=250&section=header&text=SRIKAR%20NARRA&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=//%20more%20human%20than%20human%20%C2%B7%20a%20developer%20in%20the%20neon%20rain&descSize=15&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://raw.githubusercontent.com/SrikarNarra16/SrikarNarra16/main/assets/header.svg" alt="Srikar Narra // neon terminal"/>
 </a>
 
 <div align="center">
@@ -20,7 +20,7 @@
 <a href="mailto:srikarnarra16@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-0d0221?style=for-the-badge&logo=maildotru&logoColor=FF2E97&labelColor=0d0221"/></a>
 <img src="https://komarev.com/ghpvc/?username=SrikarNarra16&label=RETINAL+SCANS&color=ff2e97&style=for-the-badge"/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%" alt="neon divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="neon divider"/>
 
 </div>
 
@@ -149,10 +149,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%" alt="neon divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="neon divider"/>
 
 ### ` > it's too bad she won't live... but then again, who does? `
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2e97,40:00e5ff,70:41045c,100:0d0221&height=150&section=footer&text=end%20of%20line_&fontSize=26&fontColor=ffffff&fontAlignY=72&reversal=true" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:41045c,100:00e5ff&height=130&section=footer&text=end%20of%20line_&fontSize=24&fontColor=ffffff&fontAlignY=78&reversal=true" alt="footer"/>
 
 </div>
